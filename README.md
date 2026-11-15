@@ -26,13 +26,14 @@ A terminal-based Student Management System built using Python and SQLite.
 4. Run the following command:
 
    `python sqlite_test.py`
+   
 ## Screenshots
 
 ### Main Menu
-![Main Menu](screenshots/main-menu.png)
+![Main Menu](main-menu.png.png)
 
 ### Student Records
-![Student Records](screenshots/student-records.png.png)
+![Student Records](student-records.png.png)
 
 ## Project Type
 
